@@ -1,0 +1,51 @@
+﻿#canvas {
+background: #778899;
+align-items: center;  
+}
+.table_1
+{
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+    display: none;
+    position: absolute;
+    top:200px;
+    left:200px;
+}
+.button1
+{
+    background-color: red;
+}
+.vinograd2
+{
+    display:none;
+}
+.u_monney
+{
+    font-size: 30px;
+    position: absolute;
+    top:85px;
+    left:570px;
+}
+.sec
+{
+    position: absolute;
+    top:30px;
+    left:600px;
+    font-size: 30px;
+    font-family: 'Kalam', cursive ;
+}
+.victory
+{
+    width: 800px;
+    height: 600px;
+    display:none;
+    font-size: 30px;
+    font-family: 'Kalam', cursive ;
+    position: absolute;
+    background-color: blue;
+    box-shadow: 0 0 10px yellow;
+    top: 10px;
+    left: 10px;
+    
+}
