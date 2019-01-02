@@ -1,6 +1,6 @@
 ﻿qwer=0;
 qwe=0;
-qw=-100;
+qw=-40;
 jk=0;
 frut=0;
 rad1=document.getElementsByName('radio1');
